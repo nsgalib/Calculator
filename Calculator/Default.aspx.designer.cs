@@ -22,6 +22,15 @@ namespace Calculator {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
+        /// lbl_result control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_result;
+        
+        /// <summary>
         /// Result_box control.
         /// </summary>
         /// <remarks>
@@ -67,6 +76,33 @@ namespace Calculator {
         protected global::System.Web.UI.WebControls.Button Button_SUBTRACT;
         
         /// <summary>
+        /// btn_Pi control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_Pi;
+        
+        /// <summary>
+        /// btn_log control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_log;
+        
+        /// <summary>
+        /// btn_Sqrt control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_Sqrt;
+        
+        /// <summary>
         /// Button_7 control.
         /// </summary>
         /// <remarks>
@@ -101,6 +137,33 @@ namespace Calculator {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button_MULTI;
+        
+        /// <summary>
+        /// btn_sinh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_sinh;
+        
+        /// <summary>
+        /// btn_sin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_sin;
+        
+        /// <summary>
+        /// btn_mod control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_mod;
         
         /// <summary>
         /// Button_4 control.
@@ -139,6 +202,33 @@ namespace Calculator {
         protected global::System.Web.UI.WebControls.Button Button_DIVIDE;
         
         /// <summary>
+        /// btn_cosh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_cosh;
+        
+        /// <summary>
+        /// btn_cos control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_cos;
+        
+        /// <summary>
+        /// btn_bin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_bin;
+        
+        /// <summary>
         /// Button_1 control.
         /// </summary>
         /// <remarks>
@@ -166,13 +256,40 @@ namespace Calculator {
         protected global::System.Web.UI.WebControls.Button Button_3;
         
         /// <summary>
-        /// Button_MOD control.
+        /// plusMinus control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button_MOD;
+        protected global::System.Web.UI.WebControls.Button plusMinus;
+        
+        /// <summary>
+        /// btn_tanh control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_tanh;
+        
+        /// <summary>
+        /// btn_tan control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_tan;
+        
+        /// <summary>
+        /// btn_hex control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_hex;
         
         /// <summary>
         /// Button_0 control.
@@ -200,5 +317,32 @@ namespace Calculator {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Button_EQUAL;
+        
+        /// <summary>
+        /// btn_x2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_x2;
+        
+        /// <summary>
+        /// btn_x3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_x3;
+        
+        /// <summary>
+        /// btn_1x control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_1x;
     }
 }

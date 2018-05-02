@@ -67,6 +67,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,7 +76,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Calculator_App.aspx" />
+    <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="style.css" />
     <Content Include="Web.config">
@@ -83,12 +84,12 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calculator_App.aspx.cs">
-      <DependentUpon>Calculator_App.aspx</DependentUpon>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Calculator_App.aspx.designer.cs">
-      <DependentUpon>Calculator_App.aspx</DependentUpon>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
